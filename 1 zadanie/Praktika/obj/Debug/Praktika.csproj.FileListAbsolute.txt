@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\rolexeees\Praktika\Praktika\bin\Debug\Praktika.exe.config
+C:\Users\Admin\source\repos\rolexeees\Praktika\Praktika\bin\Debug\Praktika.exe
+C:\Users\Admin\source\repos\rolexeees\Praktika\Praktika\bin\Debug\Praktika.pdb
+C:\Users\Admin\source\repos\rolexeees\Praktika\Praktika\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Admin\source\repos\rolexeees\Praktika\Praktika\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Admin\source\repos\rolexeees\Praktika\Praktika\obj\Debug\Praktika.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\rolexeees\Praktika\Praktika\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Admin\source\repos\rolexeees\Praktika\Praktika\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Admin\source\repos\rolexeees\Praktika\Praktika\obj\Debug\Praktika.csproj.ResolveComReference.cache
+C:\Users\Admin\source\repos\rolexeees\Praktika\Praktika\obj\Debug\Praktika.Form1.resources
+C:\Users\Admin\source\repos\rolexeees\Praktika\Praktika\obj\Debug\Praktika.Properties.Resources.resources
+C:\Users\Admin\source\repos\rolexeees\Praktika\Praktika\obj\Debug\Praktika.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\rolexeees\Praktika\Praktika\obj\Debug\Praktika.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\rolexeees\Praktika\Praktika\obj\Debug\Praktika.exe
+C:\Users\Admin\source\repos\rolexeees\Praktika\Praktika\obj\Debug\Praktika.pdb
